@@ -1,4 +1,4 @@
-# hello-world
+# Milko Yaroslav 2B Hello
 
 class App {
 
